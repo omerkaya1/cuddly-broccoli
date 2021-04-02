@@ -1,0 +1,52 @@
+{
+	"show": "Rick and Morty",
+	"characters": {
+		"0": {
+			"name": "Rick",
+			"surname": "Sanchez",
+			"episodes": {
+				"0": 10,
+				"1": 12
+			},
+			"clothes": {
+				"0": {"type": "Lab coat", "color": "white", "size": "M"},
+				"1": {"type": "Pents", "color": "brown", "size": "M"},
+				"2": {"type": "T-Short", "color": "brown", "size": "M"}
+			}
+		},
+		"1": {
+			"name": "Morty",
+			"surname": "Smith",
+			"episodes": {
+				"0": 10,
+				"1": 12
+			},
+			"clothes": {
+				"0": {"type": "Pents", "color": "brown", "size": "S"},
+				"1": {"type": "T-Short", "color": "brown", "size": "S"}
+			}
+		}
+	},
+	"episodes": {
+		"1": {
+			"name": "Pilot",
+			"characters": {
+				"0": {"name": "Rick"},
+				"1": {"name": "Morty"},
+				"2": {"name": "Summer"},
+				"3": {"name": "Beth"},
+				"4": {"name": "Jerry"}
+			}
+		},
+		"2": {
+			"name": "Second",
+			"characters": {
+				"0": {"name": "Rick"},
+				"1": {"name": "Morty"},
+				"2": {"name": "Summer"},
+				"3": {"name": "Beth"},
+				"4": {"name": "Jerry"}
+			}
+		}
+	}
+}

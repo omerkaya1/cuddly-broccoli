@@ -1,0 +1,44 @@
+{
+	"show": "Rick and Morty",
+	"characters": [
+		{
+			"name": "Rick",
+			"surname": "Sanchez",
+			"clothes": [
+				{"type": "Lab coat", "color": "white", "size": "M"},
+				{"type": "Pents", "color": "brown", "size": "M"},
+				{"type": "T-Short", "color": "brown", "size": "M"}
+			]
+		},
+		{
+			"name": "Morty",
+			"surname": "Smith",
+			"clothes": [
+				{"type": "Pents", "color": "brown", "size": "S"},
+				{"type": "T-Short", "color": "yelow", "size": "S"}
+			]
+		}
+	],
+	"episodes": [
+		{
+			"name": "Pilot",
+			"characters": [
+				{"name": "Rick"},
+				{"name": "Morty"},
+				{"name": "Summer"},
+				{"name": "Beth"},
+				{"name": "Jerry"}
+			]
+		},
+		{
+			"name": "Second",
+			"characters": [
+				{"name": "Rick"},
+				{"name": "Morty"},
+				{"name": "Summer"},
+				{"name": "Beth"},
+				{"name": "Jerry"}
+			]
+		}
+	]
+}
