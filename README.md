@@ -19,8 +19,8 @@ The package is pretty straightforward:
 Path composing conventions:
     ?# - object keys are stringified numbers and we need to include them to converted objects
     ?* - object keys are names and we need to include them to converted objects
-    ?#- - number is irrelevant and we can ditch them
-    ?*- - name is irrelevant and we can ditch them
+    ?#- - numbers are irrelevant and we can ditch them
+    ?*- - names are irrelevant and we can ditch them
 Example:
     "example#.path*-.to*.object"
 ```
